@@ -1,0 +1,109 @@
+.home_title {
+	font-color: #000;
+ }
+
+nav {
+	width: 85%;
+	margin: 30px auto 0;
+	height: 20px;
+
+}
+
+
+
+nav li {
+	
+	position: relative;
+	float: left;
+	list-style-type: none;
+
+}
+ nav a {
+ 	position: relative;
+	width: 100px;
+	height: 100%;
+	color: #f4473a;
+	text-decoration: none;
+	text-align: center;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	box-sizing: border-box;
+	float: right;
+
+}
+
+.image {
+		padding: 0;
+
+}
+
+.information {
+	
+	text-align: center;
+	padding: 40px 0px;
+  background: #ed564b;
+  border-top: 5px solid #f96b61;
+  border-bottom: 5px solid #f96b61;
+}
+
+h3 {
+	font-family: "Helvetica Neue",Helvetica,Arial,sans-serif;
+	color: white
+}
+
+.text {
+	display: block;
+	color: white
+}
+
+.star {
+	  border: 5px solid #fff;
+    background: transparent;
+    width: 70px;
+    height: 70px;
+    border-radius: 35px;
+    display: block;
+    line-height: 65px;
+    text-align: center;
+    margin: 0px auto;
+    font-size: 20px;
+    color: white;
+}
+
+.fotos {
+	position: relative;
+
+}
+
+.fotos h3 {
+		text-align: center;
+    color: black;
+    font-size: 14px;
+
+}
+
+a {
+	color: black;
+}
+
+.LatestPost {
+	position: relative;
+}
+
+.LatestPost h3 {
+	text-align: center;
+    color: black;
+    font-size: 14px;
+
+}
+
+
+.Posted h4 {
+	color: gray;
+	font-size: 12px;
+}
+
+.Posted time {
+	font-size: 12px;
+}
+

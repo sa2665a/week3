@@ -1,0 +1,12 @@
+.button:hover 
+{
+	transition-property:background;
+	transition-duration: .6s;
+	transition-timing-function: linear;
+	transition-delay: 0s;
+
+}
+
+.button:hover{
+	background: #FF7B29;
+	}
